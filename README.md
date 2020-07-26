@@ -6,7 +6,7 @@ yarn install or npm install
 yarn start or npm start
 ```
 Ex. **[My Resume →](https://gitconnected.com/jsebastiansalazar/resume)** (https://gitconnected.com/treyhuffine/resume)
-![](resume.png)
+![](img.png)
 
 ## Packages
 - React (using create-react-app)
