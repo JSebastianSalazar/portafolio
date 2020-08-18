@@ -5,7 +5,7 @@ cd portafolio
 yarn install or npm install
 yarn start or npm start
 ```
-Ex. **[My Resume →](https://gitconnected.com/jsebastiansalazar/resume)** (https://gitconnected.com/treyhuffine/resume)
+Ex. **[My Resume →](https://gitconnected.com/jsebastiansalazar/resume)** (https://gitconnected.com/jsebastiansalazar/resume)
 ![](img.png)
 
 ## Packages
